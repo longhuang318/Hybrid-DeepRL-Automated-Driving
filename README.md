@@ -1,4 +1,4 @@
-# A Hybrid Deep Reinforcement Learning Based Automated Driving Agent for CARLA
+# A Hybrid Deep Reinforcement Learning Based Automated Driving Agent for CARLA（自动驾驶场景）
 
 Codebase for our Hybrid Deep Reinforcement Learning (H-DRL) based automated driving project.
 The related paper can be accessed with [this](https://arxiv.org/pdf/2002.00434.pdf) link.
